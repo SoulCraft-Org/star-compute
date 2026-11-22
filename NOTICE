@@ -1,0 +1,6 @@
+Star compute
+Copyright 2026 The Star compute Authors. Published by SoulCraft-Org.
+
+The contributor files, CI and page configs come from Git Crafter
+(https://github.com/SoulCraft-Org/git-crafter) at v7.0.2, licensed under the Apache License, Version 2.0.
+tools/voice_lint.py comes from Git Crafter through Compute Crafter (https://github.com/SoulCraft-Org/compute-crafter).
