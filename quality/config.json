@@ -1,0 +1,17 @@
+{
+ "comment": "Star compute's Quality, Speed and Consumption page (Git Crafter templates/quality). No code yet, so the code tab is left out.",
+ "tabs": [
+  "documentation",
+  "issues",
+  "pull-requests",
+  "discussions",
+  "actions",
+  "projects",
+  "security",
+  "dependabot",
+  "scanning",
+  "insights",
+  "settings",
+  "pages"
+ ]
+}
