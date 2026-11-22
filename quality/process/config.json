@@ -21,9 +21,6 @@
    "use": "measure"
   },
   {
-   "use": "code"
-  },
-  {
    "use": "triage"
   },
   {
