@@ -38,6 +38,10 @@ vision estimates, scaled from the data center by power.
 
 The bigger compute grows, the more it can give energy and water back instead of taking them.
 
+📍 The world is at level 2 of 5 today (▰▰▱▱▱). This repo plans level 5.
+
+This is the physical ladder: energy, water, chips. It lifts the [intelligence ladder](https://soulcraft.computer/vision/), from AI to conscious beings.
+
 ## The plan
 
 Show how fusion can power AI compute with energy to spare, at the scale Sage needs. The open questions are in [docs/PLAN.md](docs/PLAN.md).
