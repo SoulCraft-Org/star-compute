@@ -11,7 +11,7 @@ The top level of SoulCraft's compute ladder. AI compute powered by fusion, with 
 | Status | 💡 Concept |
 | Energy | Fusion |
 | Where | Beside a fusion plant |
-| Largest real thing today | First fusion plant: about 400 MW, 2030s |
+| Largest real thing today | First ARC fusion plant: about 400 MW, early 2030s. This is a forecast by its builder ([Commonwealth Fusion Systems, ARC](https://cfs.energy/technology/arc/), read 2026-11-23). |
 | License | Apache-2.0 |
 | Publisher | [SoulCraft](https://soulcraft.computer) |
 
