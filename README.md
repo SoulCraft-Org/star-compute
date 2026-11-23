@@ -40,7 +40,7 @@ The bigger compute grows, the more it can give energy and water back instead of 
 
 📍 The world is at level 2 of 5 today (▰▰▱▱▱). This repo plans level 5.
 
-This is the physical ladder: energy, water, chips. It lifts the intelligence ladder, from AI to conscious beings: [soulcraft.computer/vision/](https://soulcraft.computer/vision/)
+This is the physical ladder: energy, water, chips. It lifts the [intelligence ladder](https://soulcraft.computer/vision/), from AI to conscious beings.
 
 ## The plan
 
